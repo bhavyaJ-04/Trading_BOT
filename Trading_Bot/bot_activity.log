@@ -1,0 +1,13 @@
+2026-05-01 21:17:20,019 - INFO - Sending MARKET BUY order for 0.001 BTCUSDT
+2026-05-01 21:17:22,122 - INFO - SUCCESS: Order ID None
+2026-05-01 21:23:38,253 - INFO - Sending MARKET BUY order for 0.001 BTCUSDT
+2026-05-01 21:23:39,173 - ERROR - FAILED: Binance API Error: Invalid API-key, IP, or permissions for action
+2026-05-01 21:26:46,984 - INFO - Sending MARKET BUY order for 0.001 BTCUSDT
+2026-05-01 21:26:48,079 - ERROR - FAILED: Binance API Error: Invalid API-key, IP, or permissions for action
+2026-05-01 21:37:48,680 - INFO - Sending MARKET BUY order for 0.001 BTCUSDT
+2026-05-01 21:37:49,664 - ERROR - FAILED: Binance API Error: Timestamp for this request is outside of the recvWindow.
+2026-05-01 21:44:00,646 - INFO - Sending MARKET BUY order for 0.001 BTCUSDT
+2026-05-01 21:44:01,526 - INFO - SUCCESS: Order ID 13096980747
+2026-05-01 21:44:20,934 - INFO - Sending LIMIT SELL order for 0.001 BTCUSDT
+2026-05-01 21:48:14,203 - INFO - Sending LIMIT SELL order for 0.001 BTCUSDT
+2026-05-01 21:48:15,119 - INFO - SUCCESS: Order ID 13096990161
