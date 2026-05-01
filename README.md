@@ -18,8 +18,9 @@ cd your-repo-name
 pip install -r requirements.txt
 
 3️⃣ Add API Keys
-Open cli.py and replace: API_KEY = "YOUR_TESTNET_API_KEY"
-                         API_SECRET = "YOUR_TESTNET_API_SECRET"
+Open cli.py and replace: 
+API_KEY = "YOUR_TESTNET_API_KEY"
+API_SECRET = "YOUR_TESTNET_API_SECRET"
 
 Run the bot using CLI
 python cli.py --symbol BTCUSDT --side BUY --type MARKET --qty 0.001
